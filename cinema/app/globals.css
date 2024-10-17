@@ -25,3 +25,11 @@ body {
     text-wrap: balance;
   }
 }
+.f_h{
+  font-family: "Oswald", sans-serif;
+}
+
+.mask_l{
+  -webkit-mask-image: linear-gradient(to right, transparent, white 40%, white 70%, transparent);
+  mask-image: linear-gradient(to right, transparent, white 40%, white 70%, transparent);
+}  
